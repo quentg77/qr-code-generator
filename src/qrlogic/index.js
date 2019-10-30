@@ -522,7 +522,6 @@ class QRcode {
 		// console.log(getBitOf(qrcodeResult.message));
 		draw()
 		console.log(qrcodeResult);
-
 	}
 }
 
